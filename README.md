@@ -8,7 +8,7 @@ This particular project of building our own operating system is to further enhan
 
 Build status of continus integration
 
-[![Travid CI Badge](https://travis-ci.org/ColinMoulds/SWAT-OS.svg?branch=master)](https://travis-ci.org)
+[![Codeship CI Badge](https://app.codeship.com/projects/ce698c00-9e5d-0135-8178-6e6128b91f9d/status?branch=master)](https://codeship.com)
 
 ## Structure
 
@@ -22,6 +22,7 @@ Build status of continus integration
 ## Authors
 
 *Initial Work* - [Colin Moulds](https://github.com/ColinMoulds)
+<br>
 *Initial Work* - [Ross Macleod](https://github.com/JesterWolf)
 
 ## Acknowledgments
