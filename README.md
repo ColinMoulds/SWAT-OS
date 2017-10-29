@@ -2,6 +2,8 @@
 
 ## Motivation
 
+[![Join the chat at https://gitter.im/SWAT-OS/Lobby](https://badges.gitter.im/SWAT-OS/Lobby.svg)](https://gitter.im/SWAT-OS/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This particular project of building our own operating system is to further enhance our own personal development. Ideas originally developed by a group of University Students studying at Edinburgh Napier.
 
 ## Build status
