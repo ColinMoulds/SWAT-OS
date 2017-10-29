@@ -6,7 +6,7 @@
 [![Apache v2.0](https://img.shields.io/badge/license-Apache%20v2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Join the chat at https://gitter.im/SWAT-OS/Lobby](https://badges.gitter.im/SWAT-OS/Lobby.svg)](https://gitter.im/SWAT-OS/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**Note:** *IncludeOS is under active development. The public API should not be considered stable.*
+**Note:** *Swat-OS is under active development. The public API should not be considered stable.*
 
 ## Motivation
 
