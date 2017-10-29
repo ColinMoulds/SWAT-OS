@@ -100,6 +100,6 @@ void terminal_writestring(const char* data)
 void kernel_main()
 {
 terminal_initialize();
-terminal_writestring("wellcome to my first operating system!");
+terminal_writestring("welcome to my first operating system!");
 for(;;);
 }
