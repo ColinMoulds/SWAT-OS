@@ -35,6 +35,6 @@ Build status of continus integration
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
+* Hat tip to anyone whose code was used
 * Inspiration
 * Coffee
